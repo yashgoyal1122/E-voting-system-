@@ -4,9 +4,13 @@
 
 
 #install dependencies
+
+
 npm install
 
 #serve with hot reload at localhost:3000
+
+
 npm start
 
 # Create your own .env file and the file should contain:
